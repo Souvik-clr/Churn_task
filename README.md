@@ -1,5 +1,7 @@
 # Develop and Deploy A Customer Churn Prediction Model using Python, Streamlit and Docker
 
+Streamlit url : https://churntask-zrcktsp8njygreqtz7nmdb.streamlit.app/
+
 Prerequisite:
 An IDE/ Text Editor, 
 Python 3.6+, 
@@ -7,9 +9,8 @@ PIP (or Anaconda),
 Not required but recommended: An environment management tool such as pipenv, venv, virtualend, conda. , 
 Docker Desktop
 
+
 ![image](https://github.com/Souvik-clr/Churn_task/assets/85739780/b584a95e-7ade-4c25-a62e-2440f363a3d9)
-
-
 
 
 Anyone can use the application irrespective of the operating system or dependencies by just going through some simple steps:
